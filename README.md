@@ -24,6 +24,8 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
      각 포지션만 따로 정렬해서 1000개만 사용
      
      ![image](https://user-images.githubusercontent.com/52282493/105831368-f5d0b500-6009-11eb-8428-cea60756c4a4.png)
+     ![image](https://user-images.githubusercontent.com/52282493/105831548-303a5200-600a-11eb-9e19-278c66c9e0c0.png)
+     ![image](https://user-images.githubusercontent.com/52282493/105831569-37616000-600a-11eb-9a52-811c96643ed9.png)
      
      해당 열마다 값을 다 더하고 포지션 별로 차이가 나는지 확인
    
