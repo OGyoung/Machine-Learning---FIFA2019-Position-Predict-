@@ -70,3 +70,5 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
 
 ## 훈련
 ![image](https://user-images.githubusercontent.com/52282493/105857995-32aea300-602e-11eb-838e-123d41983468.png)
+
+![image](https://user-images.githubusercontent.com/52282493/105858200-638ed800-602e-11eb-9179-7280d0888a27.png)
