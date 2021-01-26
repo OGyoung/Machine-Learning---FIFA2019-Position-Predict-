@@ -42,6 +42,7 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
      ![image](https://user-images.githubusercontent.com/52282493/105856139-36d9c100-602c-11eb-828f-9729667dbf5e.png)
 
      표준편차
+     
      ![image](https://user-images.githubusercontent.com/52282493/105856336-799b9900-602c-11eb-8462-1b709ac71fcb.png)
      
      
