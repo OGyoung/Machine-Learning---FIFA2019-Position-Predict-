@@ -30,7 +30,10 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
      ![image](https://user-images.githubusercontent.com/52282493/105831700-6677d180-600a-11eb-9d3c-b6b0b6e4344d.png)
      
      해당 열마다 값을 다 더하고 포지션 별로 차이가 나는지 확인
-   
+     ![image](https://user-images.githubusercontent.com/52282493/105831832-8effcb80-600a-11eb-845a-ad82e5dd91cc.png)
+     ![image](https://user-images.githubusercontent.com/52282493/105831901-a343c880-600a-11eb-875a-cd1799b7c125.png)
+     ![image](https://user-images.githubusercontent.com/52282493/105831924-aa6ad680-600a-11eb-8469-3140556d6f32.png)
+     
 2. 비슷한 영역의 포지션을 하나의 포지션으로 합쳐서 데이터 수 늘리기
 3. NULL 값 들어간 데이터 삭제
 
