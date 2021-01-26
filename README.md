@@ -18,6 +18,7 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
 1. 특성(스탯) 중에서 분류에 영향을 주지않는 특성 제거
 
    → 포지션 별로 스탯을 비교해서 차이가 거의 없는 경우 
+   ![image](https://user-images.githubusercontent.com/52282493/105818677-8acbb200-5ffa-11eb-914e-b88e0ba68094.png)
 2. 비슷한 영역의 포지션을 하나의 포지션으로 합쳐서 데이터 수 늘리기
 3. NULL 값 들어간 데이터 삭제
 
@@ -25,4 +26,4 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
 4. 훈련set, 시험set 나누기
 
 
-![image](https://user-images.githubusercontent.com/52282493/105818677-8acbb200-5ffa-11eb-914e-b88e0ba68094.png)
+
