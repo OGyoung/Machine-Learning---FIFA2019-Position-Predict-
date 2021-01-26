@@ -9,3 +9,6 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
 ![image](https://user-images.githubusercontent.com/52282493/105817851-881c8d00-5ff9-11eb-8e8d-7469c6f1f7cf.png)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 ![image](https://user-images.githubusercontent.com/52282493/105818075-cade6500-5ff9-11eb-80f3-d5b148ebc9bc.png)
+
+## 데이터 수정하기
+![image](https://user-images.githubusercontent.com/52282493/105818677-8acbb200-5ffa-11eb-914e-b88e0ba68094.png)
