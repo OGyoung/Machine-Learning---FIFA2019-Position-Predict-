@@ -6,10 +6,10 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
 [kaggle]https://www.kaggle.com/karangadiya/fifa19
 
 ## 데이터 분석하기
-받아온 데이터set이 어떻게 되어있는지 확인
---
+받아온 데이터set이 어떻게 되어있는지 확인 - 몇 개의 샘플인지, 어떤 특성을 갖고있는지
+
 ![image](https://user-images.githubusercontent.com/52282493/105817851-881c8d00-5ff9-11eb-8e8d-7469c6f1f7cf.png)
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ------
 ![image](https://user-images.githubusercontent.com/52282493/105818075-cade6500-5ff9-11eb-80f3-d5b148ebc9bc.png)
 
 ## 데이터 수정하기
