@@ -51,7 +51,8 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
 2. 비슷한 영역의 포지션을 하나의 포지션으로 합쳐서 데이터 수 늘리기
 
 ![image](https://user-images.githubusercontent.com/52282493/105856596-c2535200-602c-11eb-8644-46905186f785.png)
-![image](https://user-images.githubusercontent.com/52282493/105856706-deef8a00-602c-11eb-8402-8a3056938a06.png)
+![image](https://user-images.githubusercontent.com/52282493/105856868-08a8b100-602d-11eb-8671-c71316edc3a0.png)
+
 3. NULL 값 들어간 데이터 삭제
 
    →  .dropna() 사용
