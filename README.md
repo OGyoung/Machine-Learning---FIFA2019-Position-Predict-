@@ -60,6 +60,9 @@ FIFA2019 데이터에서 선수들의 스탯을 보고 포지션을 예측해본
 3. NULL 값 들어간 데이터 삭제
 
    →  .dropna() 사용
+   
+   ![image](https://user-images.githubusercontent.com/52282493/105857390-997f8c80-602d-11eb-8ec4-52a1b86e3008.png)
+   
 4. 훈련set, 시험set 나누기
 
 
